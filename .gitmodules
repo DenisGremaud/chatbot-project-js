@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:DenisGremaud/chatbot-backend.git
+[submodule "init"]
+	path = init
+	url = git@github.com:DenisGremaud/chatbot-init.git

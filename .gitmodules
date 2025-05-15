@@ -7,3 +7,6 @@
 [submodule "init"]
 	path = init
 	url = git@github.com:DenisGremaud/chatbot-init.git
+[submodule "graph-services"]
+	path = graph-services
+	url = git@github.com:DenisGremaud/chatbot-graph-services.git
